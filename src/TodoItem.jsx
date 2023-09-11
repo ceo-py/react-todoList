@@ -1,3 +1,4 @@
+// eslint-disable-next-line react/prop-types
 export function TodoItem({id, completed, title, toggleTodo, deleteTodo}) {
 
     return (
